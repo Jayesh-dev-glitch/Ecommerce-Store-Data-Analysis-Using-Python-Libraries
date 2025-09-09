@@ -4,7 +4,7 @@
 This project focuses on analyzing an **E-commerce store sales dataset** to uncover insights into customer behavior, product performance, and seasonal sales trends. The analysis was performed using Python libraries including **Pandas, NumPy, Matplotlib, and Seaborn**.
 
 # Highest Selling Category
-
+![Highest Selling Category](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Highest%20Selling%20Category.png)
 # Sales Contribution By Channel
 
 # Top 5 States By Sales
