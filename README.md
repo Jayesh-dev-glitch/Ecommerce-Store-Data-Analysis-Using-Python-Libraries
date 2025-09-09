@@ -4,15 +4,15 @@
 This project focuses on analyzing an **E-commerce store sales dataset** to uncover insights into customer behavior, product performance, and seasonal sales trends. The analysis was performed using Python libraries including **Pandas, NumPy, Matplotlib, and Seaborn**.
 
 # Highest Selling Category
-![Highest Selling Category](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Highest%20Selling%20Category.png)
+
 # Sales Contribution By Channel
-![Sales Contribution By Channel](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Sales%20Contribution%20By%20Channel.png)
+
 # Top 5 States By Sales
-![Top 5 States By Sales](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Top%205%20States%20By%20Sales.png)
+
 # Top Sales By Age Group
-![Top Sales By Age Group](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Top%20Sales%20By%20Age%20Group.png)
+
 # Total Sales & Orders By Gender
-![Total Sales & Orders By Gender](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Total%20Sales%2COrders%20By%20Gender.png)
+
 
 ## 🎯 Objectives
 - Clean and preprocess raw sales data.  
