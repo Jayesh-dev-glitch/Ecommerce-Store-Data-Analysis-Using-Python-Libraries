@@ -12,7 +12,7 @@ This project focuses on analyzing an **E-commerce store sales dataset** to uncov
 # Top Sales By Age Group
 ![Top Sales By Age Group](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Top%20Sales%20By%20Age%20Group.png)
 # Total Sales & Orders By Gender
-
+![Total Sales & Orders By Gender](https://github.com/Jayesh-dev-glitch/Ecommerce-Store-Data-Analysis-Using-Python-Libraries/blob/main/Total%20Sales%2COrders%20By%20Gender.png)
 
 ## 🎯 Objectives
 - Clean and preprocess raw sales data.  
